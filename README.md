@@ -62,13 +62,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h2 align="left">Stats 🧮</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/ViridityCorn/ViridityCorn/output/snake.svg" alt="Snake animation" />
-
-###
